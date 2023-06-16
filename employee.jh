@@ -1,0 +1,12 @@
+
+entity Employee {
+	employeeName String required ,
+    age Integer,
+    gender String
+    phoneNo Long required,
+    mailId String required,
+ 
+}
+
+
+
